@@ -15,8 +15,7 @@ export function HeroBanner({ className }: { className?: string }) {
               </span>
             </h1>
             <p className="leading-relaxed text-black/80 font-sans">
-            A Graphic and Web Designer creating visually captivating designs that communicate clearly, inspire action, and bring ideas to life.
-            </p>
+              Welcome! I&apos;m glad you&apos;re here. Take a look around to learn more about me and the projects I&apos;ve worked on.</p>
             <div className="hidden md:block">
               <Socials />
             </div>

@@ -11,11 +11,11 @@ export function AboutMe({ className }: { className?: string }) {
       </CardHeader>
       <CardContent className="space-y-4">
         <p>
-          Hi there, I&apos;m <span className="whitespace-nowrap border w-max border-[#EBEBEB] text-[13px] rounded-[0.375rem] py-[3px] px-[5px]">Sarah</span>. A passionate and detail-oriented Graphic Designer with a love for all things creative.
+          Hi there, I&apos;m <span className="whitespace-nowrap border w-max border-[#EBEBEB] text-[13px] rounded-[0.375rem] py-[3px] px-[5px]">Sarah</span>. I enjoy designing and finding simple ways to make things look and work better.
         </p>
 
         <p>
-        I specialize in crafting visual content that communicates clearly, inspires emotion, and brings ideas to life. From branding and layout design to social media graphics and promotional materials, I bring a thoughtful and artistic approach to every project.
+        I love creating visual content that communicates clearly, inspires emotion, and brings ideas to life. From branding and layout design to social media graphics and promotional materials, I bring a thoughtful and artistic approach to every project.
         </p>
 
         <p>
