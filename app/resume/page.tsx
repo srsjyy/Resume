@@ -8,7 +8,7 @@ export default function ResumePage() {
             A visual representation of my education, experience, and skills.
           </p>
           <a
-            href="/Resume (2).pdf" // Replace with the actual path to your PDF
+            href="/Resume.pdf" // Replace with the actual path to your PDF
             download
             className="inline-block px-6 py-3 bg-black text-white font-semibold rounded-xl shadow-md hover:bg-pink-500 transition"
             >
